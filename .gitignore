@@ -19,3 +19,6 @@ Thumbs.db
 
 # Ignorer les fichiers sensibles
 .env
+
+#ignorer le modele 
+.gguf
